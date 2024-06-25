@@ -1,7 +1,7 @@
 ## About me 🖍️
 
-I'm Gary I have interest in robotics and machine learning looking forward to working on cool projects and contribute to open source
-in the coming future!! 
+I'm Gary I have interest in mathematics and space looking forward to working on cool projects and contribute to open source
+in the coming future!!
 
 ### Things i have done so far 🌟
 1) Introduction to programming 	
